@@ -1,3 +1,0 @@
-(ns algo.practice)
-
-
